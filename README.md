@@ -1,7 +1,6 @@
 # FinalProject
 Computer Networks Final Project
 Location Tracker by Jamie Cohen
-GitHub: https://github.com/jamiemcohen/FinalProject
 Live Demo: https://youtu.be/j6F7USkTOzQ
 
 Summary
